@@ -6,11 +6,13 @@ tor2torrent is a Python 3 script to create bittorrent files for [Tor Project](ht
 
 ## Installation
 
-If you have setupttols installed, simply do:
+If you have [setuptools](https://pypi.python.org/pypi/setuptools/) installed, simply do:
 
 	$ sudo python setup.py install
 
 ## Usage
+
+To create a torrent file for a specific package just give it its name as the argument.
 
 	$ python3 tor2torrent.py tor-0.2.6.1-alpha
 
@@ -22,8 +24,7 @@ Happy hacking!
 
 ## License
 
-py3createtorrent is licensed under the GPL 3.0 license. See py3createtorrent-0.9.5/gpl-3.0.txt for details.
-tor2project.py is licensed under the GPL 3.0 license. See LICENSE for details.
+Both py3createtorrent and tor2project are licensed under the GPL 3.0 license. See LICENSE for details.
 
 ## Contact
 
