@@ -1,17 +1,16 @@
 #!/usr/bin/env python3
 # -*- coding: utf-8 -*-
 
-"""Script to create bittorrent for Tor Project packages."""
+"""Script to create bittorrent files for Tor Project packages."""
 
 import os
 import sys
 import argparse
 import requests
 
-__author__    = 'Adolfo Braga'
-__email__     = 'code@anomi.co'
+__author__    = 'Adolfo Braga <code@anomi.co>'
 __license__   = 'GPL'
-__version__   = '0.1'
+__version__   = '0.1.0'
 
 dist = 'https://dist.torproject.org/'
 

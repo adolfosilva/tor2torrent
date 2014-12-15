@@ -1,12 +1,19 @@
 # tor2torrent [![Build Status](https://travis-ci.org/anomico/tor2torrent.svg)](https://travis-ci.org/anomico/tor2torrent)
 
-tor2torrent is a Python 3 script to create bittorrent files for Tor Project packages.
+tor2torrent is a Python 3 script to create bittorrent files for [Tor Project](https://www.torproject.org) packages.
+
+> ***Note:*** This project is in no way officially associated with the Tor Project.
+
+## Installation
+
+If you have setupttols installed, simply do:
+
+	$ sudo python setup.py install
 
 ## Usage
 
-```
-$ python3 tor2torrent.py tor-0.2.6.1-alpha
-```
+	$ python3 tor2torrent.py tor-0.2.6.1-alpha
+
 
 ## Contributing
 
