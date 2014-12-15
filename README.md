@@ -14,8 +14,12 @@ If you have [setuptools](https://pypi.python.org/pypi/setuptools/) installed, si
 
 To create a torrent file for a specific package just give it its name as the argument.
 
-	$ python3 tor2torrent.py tor-0.2.6.1-alpha
-
+```
+$ python3 tor2torrent.py tor-0.2.6.1-alpha
+Downloading: https://dist.torproject.org/tor-0.2.6.1-alpha.tar.gz
+Downloading: https://dist.torproject.org/tor-0.2.6.1-alpha.tar.gz.asc
+Creating torrent: tor-0.2.6.1-alpha.torrent
+```
 
 ## Contributing
 
