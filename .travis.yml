@@ -6,6 +6,7 @@ python:
   - "3.4"
 
 script:
+    - pip install -r requirements.txt
     - python3 ./tor2torrent.py tor-0.2.6.1-alpha
 
 install:
