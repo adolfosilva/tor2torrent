@@ -8,7 +8,7 @@ tor2torrent is a Python 3 script to create bittorrent files for [Tor Project](ht
 
 If you have [setuptools](https://pypi.python.org/pypi/setuptools/) installed, simply do:
 
-	$ sudo python setup.py install
+	$ sudo python3 setup.py install
 
 ## Usage
 
