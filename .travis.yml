@@ -5,7 +5,8 @@ python:
   - "3.3"
   - "3.4"
 
-script: python3 ./tor2torrent.py -h
+script:
+    - python3 ./tor2torrent.py -h
 
 install:
     - sudo python3 setup.py install
