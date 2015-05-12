@@ -1,4 +1,4 @@
-# tor2torrent [![Build Status](https://travis-ci.org/anomico/tor2torrent.svg)](https://travis-ci.org/anomico/tor2torrent)
+# tor2torrent [![Build Status](https://travis-ci.org/adolfosilva/tor2torrent.svg)](https://travis-ci.org/adolfosilva/tor2torrent)
 
 tor2torrent is a Python 3 script to create bittorrent files for [Tor Project](https://www.torproject.org) packages.
 

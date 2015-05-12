@@ -9,7 +9,7 @@ import shutil
 import argparse
 import requests
 
-__author__    = 'Adolfo Braga <code@anomi.co>'
+__author__    = 'Adolfo Silva <code@anomi.co>'
 __license__   = 'GPL'
 __version__   = '0.1.0'
 
